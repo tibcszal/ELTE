@@ -1,3 +1,6 @@
+#2022/2023 ősz
+# Ez a program egy zárthelyi dolgozaton szerepelt, kirajzol a terminálba egy argumentumban megadott méretű "zászlót" csillagokból.
+
 #!/bin/bash
 
 n=$1
