@@ -1,3 +1,11 @@
+# 2022/2023 autumn
+# This program receives a text file as an argument and answers the given questions.
+# The text file contains data about workplace violence. Each line contains the name of the workplace, its address, the number of violent acts in a year, the number of security guards - separated by commas.
+# e.g. Fűzfa fütyülő kft, 1111 Budapest Ökör utca 6, 5, 3
+# a) Name of the workplace where there was no violence, if there was none, then write "NINCS".
+# b) Count the total number of security guards according to the given data file!
+# c) Where is the workplace with the most violence, give its name and address!
+
 # 2022/2023 ősz
 # Ez a program egy beadandó feladat volt, egy argumentumban megadott szöveges adatfájlt dolgoz fel és választ ad a megadott kérdésekre.
 # A szöveges fájlban a munkahelyi erőszakkal kapcsolatban tárolunk adatokat. Soronként a munkahely neve, címe, az egy évben előforduló erőszakos cselekmények száma, biztonsági őrök száma - vesszővel elválasztva.

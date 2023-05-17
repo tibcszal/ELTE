@@ -1,3 +1,6 @@
+# 2022/2023 autumn
+# This program receives files as arguments and decides how many of them are executable only by their owners.
+
 # 2022/2023 ősz
 # Ez a program fájlokat fogad argumentumként és eldönti hogy hány olyan van közöttük, amelyek csak a tulajdonosaik által futtathatóak.
 

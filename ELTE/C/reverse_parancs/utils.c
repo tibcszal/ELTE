@@ -1,3 +1,9 @@
+// 2022/2023 autumn
+// This was a final project for the course, where we had to implement a reverse command. The base of the task was the rev Unix utility, which prints the contents of the input(s) in the original order, but without line numbers and with the lines reversed.
+
+// 2022/2023 ősz
+// Ez egy év végi beadandó feladat volt, melyben egy reverse parancssori parancsot kellet megvalósítani. A feladat alapja a rev Unix utility, amely a kapott bemenet(ek) tartalmát eredeti sorrendben, de sorszámozás nélkül és a sorokat megfordítva írja ki.
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>

@@ -1,4 +1,7 @@
-#2022/2023 ősz
+# 2022/2023 autumn
+# This program was on a test, it draws a "flag" of the given size in the terminal made of stars.
+
+# 2022/2023 ősz
 # Ez a program egy zárthelyi dolgozaton szerepelt, kirajzol a terminálba egy argumentumban megadott méretű "zászlót" csillagokból.
 
 #!/bin/bash

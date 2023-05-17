@@ -1,3 +1,7 @@
+-- 2021/2022 autumn
+-- This was a final project for the course, where we had to implement some basic functions of the Plants vs Zombies video game.
+-- I gained a deeper understanding of the Haskell language and functional programming in general.
+
 -- 2022/2023 ősz
 -- Ez egy év végi beadandó feladat volt, a Plants vs Zombies videójáték pár alap funkcióját kellett megvalósítani.
 -- A feladatban mélyebb tapasztalatot szereztem a Haskell nyelvvel, és a funkcionális programozással kapcsolatban.
